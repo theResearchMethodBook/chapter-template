@@ -1,6 +1,10 @@
 # chapter-template
 Template for Chapter Authors
 
+[![CC NA SA 4.0 Logo](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is part of [Research Methods for Learning Engineers](https://github.com/theResearchMethodsBook/). Any repurposing of this work requires a reference of the parent project. 
+
 ## Getting started
 
 1. Clone this repository to your deskop
